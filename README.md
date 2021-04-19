@@ -1,19 +1,17 @@
 ### Hi there, I'm Giovanni Palma👋
 
+- 📖 Study: I'm studying "Internet of Things, Big Data & Machine Learning" at the University of Udine.
 
-- 🌱 I’m currently learning JavaScript
+- 🤔 Learning: I am trying to learn Artificial intelligence in particular Deep Learning.
 
-- 🤔 I’m looking for help with ML
+- 🔭 Goals: My goal is to become a Network Designer.
 
+- ⚡ Fun fact: I **really love** 3D Art and Generative Art. I really want to be an artist but I am not very talented.
+ 
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <!--
+Languages and Tools:
 - 👯 I’m looking to collaborate on TradingBet
 - 🔭 I’m currently working on 
 - 💬 Ask me about ...
