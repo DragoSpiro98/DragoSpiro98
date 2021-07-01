@@ -1,10 +1,10 @@
 ### Hi there, I'm Giovanni Palma👋
 
-- 📖 Study: I'm studying "Internet of Things, Big Data & Machine Learning" at the University of Udine.
+- 📖 I'm studying "Internet of Things, Big Data & Machine Learning" at the University of Udine.
 
-- 🤔 Learning: I am trying to learn Artificial intelligence in particular Deep Learning.
+- 🤔 I am trying to learn Artificial intelligence in particular Deep Learning.
 
-- 🔭 Goals: My goal is to become a Network Designer.
+- 🔭 My goal is to become a Network Designer.
 
 - ⚡ Fun fact: I **really love** 3D Art and Generative Art. I really want to be an artist but I am not very talented.
  
