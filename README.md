@@ -6,7 +6,7 @@
 
 - 🔭 My goal is to become a Network Designer.
 
-- ⚡ Fun fact: I **really love** 3D Art and Generative Art. I really want to be an artist but I am not very talented.
+- ⚡ I **really love** 3D Art and Generative Art. I really want to be an artist but I am not very talented.
  
 
 
